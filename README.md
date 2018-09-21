@@ -1,4 +1,4 @@
-# Fully Automated Zcash <3 Tor Scripts
+# zcash <3 tor scripts
 
 This guide contains instructions for using Tor to ensure that your IP address is not exposed to any Zcash-related services when installing, running, and updating a Zcash full node (zcashd) on a Debian server.
 
