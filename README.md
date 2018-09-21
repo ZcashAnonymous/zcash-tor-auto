@@ -111,9 +111,9 @@ You can also add and fund your own bounties. Just add the amount of the bounty t
 
 ## Contribute
 
-Open an issue to report an error and submit a pull request to close an open issue.
+Open an [issue](https://github.com/ZcashAnonymous/zcash-tor-auto/issues) to report an error and submit a [pull request](https://github.com/ZcashAnonymous/zcash-tor-auto/pulls) to close an open issue.
 
-All contributions are made under MIT license. See the LICENSE file in this repository.
+All contributions are made under MIT license. See the [LICENSE](https://github.com/ZcashAnonymous/zcash-tor-auto/blob/master/LICENSE) file in this repository.
 
 ## Acknowledgements
 
