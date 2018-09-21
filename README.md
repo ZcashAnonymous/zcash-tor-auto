@@ -1,8 +1,8 @@
 # Fully Automated Zcash <3 Tor Scripts
 
-## Project goal
+This guide contains instructions for using Tor to ensure that your IP address is not exposed to any Zcash-related services when installing, running, and updating a Zcash full node (zcashd) on a Debian server.
 
-The goal of this project is to ensure that a user's IP address is not exposed to any Zcash-related services when installing, running, and updating a Zcash full node (zcashd) on a Debian server.
+Note: These instructions are intended for use with a Debian server that is running 24/7 but should work with a Debian desktop as well. If you use a Debian desktop Zcash node then make sure to shutdown the node safely before shutting down your desktop, and restart Tor and the Zcash node after restarting the desktop.
 
 ## Why do I need this? Zcash works fine without it.
 
