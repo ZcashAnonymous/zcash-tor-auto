@@ -16,7 +16,7 @@ If you still want to try to be more private, then there are two ways we recommen
 
 #### Easiest way:
 
-First, you'll need the [Tor Browser Bundle ](https://www.torproject.org/projects/torbrowser.html). Once that is installed, come back to this page using the Tor Browser. Go to the [main page](https://github.com/durbanpoison/zcash-tor) of this repository, click on "Clone or download", then click on "Download ZIP". Unzip the file and open its directory on your computer. Right click anywhere on that window and select "Open in terminal" in the menu. Keep the terminal open, as you will need it for the **How to install** part of this guide.
+First, you'll need the [Tor Browser Bundle ](https://www.torproject.org/projects/torbrowser.html). Once that is installed, come back to this page using the Tor Browser. Go to the [main page](https://github.com/ZcashAnonymous/zcash-tor-auto) of this repository, click on "Clone or download", then click on "Download ZIP". Unzip the file and open its directory on your computer. Right click anywhere on that window and select "Open in terminal" in the menu. Keep the terminal open, as you will need it for the **How to install** part of this guide.
 
 #### Fancy way:
 
