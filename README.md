@@ -4,6 +4,20 @@ This guide contains instructions for using Tor to ensure that your IP address is
 
 Note: These instructions are intended for use with a Debian server that is running 24/7 but should work with a Debian desktop as well. If you use a Debian desktop Zcash node then make sure to shutdown the node safely before shutting down your desktop, and restart Tor and the Zcash node after restarting the desktop.
 
+## Table of Contents <sup id="a1"></sup>
+
+- [Why do I need this? Zcash works fine without it](#why-do-i-need-this-zcash-works-fine-without-it)
+- [How to privately download](#how-to-privately-download)
+- [How to install](#how-to-install)
+- [How to use](#how-to-use)
+- [Updating Zcash](#updating-zcash)
+- [Manual guide](#manual-guide)
+- [Forum thread](#forum-thread)
+- [Bounties](#bounties)
+- [Contribute](#contribute)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
+
 ## Why do I need this? Zcash works fine without it.
 
 Yes! But the privacy of your transactions could possibly be compromised by an attacker knowing your IP address. By having the entire Zcash ecosystem accessed exclusively through Tor, you increase your level of privacy. This will also install Zcash through Tor, helping to keep private the fact that you use Zcash at all.
@@ -118,3 +132,7 @@ All contributions are made under MIT license. See the [LICENSE](https://github.c
 ## Acknowledgements
 
 Thanks to @Thenerdstation for providing the first version of these scripts.
+
+## License
+
+This software is released under the MIT license. See the [LICENSE](/LICENSE.md) file for the full text of the licence.
