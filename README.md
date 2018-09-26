@@ -19,10 +19,12 @@ Note: These instructions are intended for use with a Debian server that is runni
 - [License](#license)
 
 ## Why do I need this? Zcash works fine without it.
+[↩](#a1)
 
 Yes! But the privacy of your transactions could possibly be compromised by an attacker knowing your IP address. By having the entire Zcash ecosystem accessed exclusively through Tor, you increase your level of privacy. This will also install Zcash through Tor, helping to keep private the fact that you use Zcash at all.
 
 ## How to privately download
+[↩](#a1)
 
 If you are viewing this page on a normal browser, then your IP address has already been leaked to GitHub. ¯\\\_(ツ)_/¯
 
@@ -60,6 +62,7 @@ cd zcash-tor-auto-master
 ```
 
 ## How to install
+[↩](#a1)
 
 First, you'll need to install all of the necessary Tor packages. This will be done through the normal web, so your IP address will be exposed here. That's ok though, as nothing in this script touches anything related to Zcash. 
 
@@ -77,6 +80,7 @@ Next, we turn on the Tor service and install Zcash. This will assure us that all
  ```
  
 ## How to use
+[↩](#a1)
 
 Once everything is installed, we can start running Zcash easily!
  
@@ -87,6 +91,7 @@ Once everything is installed, we can start running Zcash easily!
 By starting `zcashd` with this script rather than directly, you have constant monitoring that you only ever connect to other Tor nodes, in case something were to happen to your config file. If you do happen to connect to a non-Tor peer, `zcashd` will terminate immediately.
 
 ## Updating Zcash
+[↩](#a1)
 
 To update Zcash, stop your node and run the install script again.
 
@@ -102,14 +107,17 @@ To update Zcash, stop your node and run the install script again.
  ```
 
 ## Manual guide
+[↩](#a1)
 
 If you prefer to enter commands by hand, see our [Zcash <3 Tor manual guide](https://github.com/ZcashAnonymous/zcash-tor).
 
 ## Forum thread
+[↩](#a1)
 
 https://forum.z.cash/t/new-guide-zcash-3-tor-installing-running-and-updating-zcash-over-tor-on-a-debian-server/
 
 ## Bounties
+[↩](#a1)
 
 Check for open bounties to solve issues in this repo:
 
@@ -124,15 +132,18 @@ Contribute to the bounty fund: `zc9kJ1jZUnKRghsLC9cVoRAWFgCiU5Mq4V6gS8pGXSBBgS3h
 You can also add and fund your own bounties. Just add the amount of the bounty to your issue and ask for the bounty label in a comment on your issue.
 
 ## Contribute
+[↩](#a1)
 
 Open an [issue](https://github.com/ZcashAnonymous/zcash-tor-auto/issues) to report an error and submit a [pull request](https://github.com/ZcashAnonymous/zcash-tor-auto/pulls) to close an open issue.
 
 All contributions are made under MIT license. See the [LICENSE](https://github.com/ZcashAnonymous/zcash-tor-auto/blob/master/LICENSE) file in this repository.
 
 ## Acknowledgements
+[↩](#a1)
 
 Thanks to @Thenerdstation for providing the first version of these scripts.
 
 ## License
+[↩](#a1)
 
 This software is released under the MIT license. See the [LICENSE](/LICENSE.md) file for the full text of the licence.
